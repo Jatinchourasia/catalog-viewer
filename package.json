@@ -1,5 +1,6 @@
 {
-  "name": "https://Jatinchourasia.github.io/catalog-viewer",
+  "name": "catalog-viewer",
+  "homepage": "https://Jatinchourasia.github.io/catalog-viewer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,7 +17,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy": "npm run build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
