@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/catalog-viewer/static/css/main.b740a137.chunk.css",
+    "main.js": "/catalog-viewer/static/js/main.e3db5662.chunk.js",
+    "main.js.map": "/catalog-viewer/static/js/main.e3db5662.chunk.js.map",
+    "runtime-main.js": "/catalog-viewer/static/js/runtime-main.ead4b8a3.js",
+    "runtime-main.js.map": "/catalog-viewer/static/js/runtime-main.ead4b8a3.js.map",
+    "static/js/2.047b22ed.chunk.js": "/catalog-viewer/static/js/2.047b22ed.chunk.js",
+    "static/js/2.047b22ed.chunk.js.map": "/catalog-viewer/static/js/2.047b22ed.chunk.js.map",
+    "static/js/3.13e70bcf.chunk.js": "/catalog-viewer/static/js/3.13e70bcf.chunk.js",
+    "static/js/3.13e70bcf.chunk.js.map": "/catalog-viewer/static/js/3.13e70bcf.chunk.js.map",
+    "index.html": "/catalog-viewer/index.html",
+    "static/css/main.b740a137.chunk.css.map": "/catalog-viewer/static/css/main.b740a137.chunk.css.map",
+    "static/js/2.047b22ed.chunk.js.LICENSE.txt": "/catalog-viewer/static/js/2.047b22ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ead4b8a3.js",
+    "static/js/2.047b22ed.chunk.js",
+    "static/css/main.b740a137.chunk.css",
+    "static/js/main.e3db5662.chunk.js"
+  ]
+}
